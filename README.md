@@ -10,15 +10,15 @@ We deal by lenders and financial institutions to determine the ability of a pers
 1)The main of this project is to create a robust machine-learning model to predict which individuals are most likely to default on their loans, based on their historical loan repayment behaviors and transactional activities. 
 
 We will be downloading the dataset and start the following process:
-1) Exploratory Data Analysis​
+1) Exploratory Data Analysis ​
 
 2)Feature Engineering
 
 3) Model Selection ​
 
-4)Model Training​
+4)Model Training ​
 
-5)Model Evaluation​
+5)Model Evaluation ​
 
 As we have choosen Random Forest as the model, we will be  building the model with tools sklearn, matplotlib etc.,
 We made a video,  git repository, uploaded a  presentation and some snapshots.

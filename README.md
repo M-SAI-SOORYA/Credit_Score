@@ -11,9 +11,14 @@ We deal by lenders and financial institutions to determine the ability of a pers
 
 We will be downloading the dataset and start the following process:
 1) Exploratory Data Analysis​
+
 2)Feature Engineering
+
 3) Model Selection ​
+
 4)Model Training​
+
 5)Model Evaluation​
+
 As we have choosen Random Forest as the model, we will be  building the model with tools sklearn, matplotlib etc.,
 We made a video,  git repository, uploaded a  presentation and some snapshots.
